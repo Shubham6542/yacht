@@ -80,6 +80,7 @@ class Yacht {
             if(dice[index] != index + 1){
                 return 0;
             }
+            String y = "yeah, this is the new line";
         }
         return 30;
     }
